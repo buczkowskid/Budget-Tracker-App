@@ -23,4 +23,4 @@ The page auto-updates as you edit the file.
 
 ## Frameworks
 
-- -React] https://reactjs.org/
+- [React] https://reactjs.org/
